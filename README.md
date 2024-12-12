@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is **Robiul Awal**. I am a **fresh graduate** from [Yogyakarta State University](https://www.uny.ac.id/). I hold a Bachelor's degree in Mathematics with a concentration in computer science, focusing on Full Stack Web Development and AI Engineering. If you'd like to connect with me, feel free to visit my [GitHub](https://github.com/robbyulawal11/) profile.
+My name is **Robiul Awal**. I am a **fresh graduate** from [Yogyakarta State University](https://www.uny.ac.id/). I hold a Bachelor's degree in Mathematics with a concentration in computer science, focusing on Full Stack Web Development and AI Engineering. If you'd like to connect with me, feel free to visit my [GitHub](https://github.com/robiulawal22/) profile.
 
 ### Github Statistic
 <p align="left">
